@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using SAPbouiCOM.Framework;
 
-namespace SBOAddon1
+namespace SBOAddon2
 {
     class Program
     {

@@ -1,0 +1,6 @@
+c:\users\dlepsaia\documents\visual studio 2015\Projects\SBOAddon2\SBOAddon2\bin\Debug\SBOAddon2.exe
+c:\users\dlepsaia\documents\visual studio 2015\Projects\SBOAddon2\SBOAddon2\bin\Debug\SBOAddon2.pdb
+c:\users\dlepsaia\documents\visual studio 2015\Projects\SBOAddon2\SBOAddon2\bin\Debug\SAPBusinessOneSDK.dll
+c:\users\dlepsaia\documents\visual studio 2015\Projects\SBOAddon2\SBOAddon2\obj\Debug\SBOAddon2.csprojResolveAssemblyReference.cache
+c:\users\dlepsaia\documents\visual studio 2015\Projects\SBOAddon2\SBOAddon2\obj\Debug\SBOAddon2.exe
+c:\users\dlepsaia\documents\visual studio 2015\Projects\SBOAddon2\SBOAddon2\obj\Debug\SBOAddon2.pdb

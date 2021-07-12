@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using SAPbouiCOM.Framework;
 
-namespace SBOAddon1
+namespace SBOAddon2
 {
     class Menu
     {
@@ -19,8 +19,8 @@ namespace SBOAddon1
             oMenuItem = Application.SBO_Application.Menus.Item("43520"); // moudles'
 
             oCreationPackage.Type = SAPbouiCOM.BoMenuType.mt_POPUP;
-            oCreationPackage.UniqueID = "SBOAddon1";
-            oCreationPackage.String = "SBOAddon1";
+            oCreationPackage.UniqueID = "SBOAddon2";
+            oCreationPackage.String = "SBOAddon2";
             oCreationPackage.Enabled = true;
             oCreationPackage.Position = -1;
 
@@ -39,12 +39,12 @@ namespace SBOAddon1
             try
             {
                 // Get the menu collection of the newly added pop-up item
-                oMenuItem = Application.SBO_Application.Menus.Item("SBOAddon1");
+                oMenuItem = Application.SBO_Application.Menus.Item("SBOAddon2");
                 oMenus = oMenuItem.SubMenus;
 
                 // Create s sub menu
                 oCreationPackage.Type = SAPbouiCOM.BoMenuType.mt_STRING;
-                oCreationPackage.UniqueID = "SBOAddon1.Form1";
+                oCreationPackage.UniqueID = "SBOAddon2.Form1";
                 oCreationPackage.String = "Form1";
                 oMenus.AddEx(oCreationPackage);
             }
@@ -60,7 +60,7 @@ namespace SBOAddon1
 
             try
             {
-                if (pVal.BeforeAction && pVal.MenuUID == "SBOAddon1.Form1")
+                if (pVal.BeforeAction && pVal.MenuUID == "SBOAddon2.Form1")
                 {
                     Form1 activeForm = new Form1();
                     activeForm.Show();

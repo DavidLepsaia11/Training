@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{AE2182D4-4086-4BEE-A223-CB8B0A702B49}</ProjectGuid>
+    <ProjectGuid>{BFC345F5-93C4-4FF0-BB31-7FC184C67700}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SBOAddon1</RootNamespace>
-    <AssemblyName>SBOAddon1</AssemblyName>
+    <RootNamespace>SBOAddon2</RootNamespace>
+    <AssemblyName>SBOAddon2</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -31,7 +31,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>SBOAddon1.Program</StartupObject>
+    <StartupObject>SBOAddon2.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

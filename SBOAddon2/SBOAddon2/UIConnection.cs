@@ -4,7 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using SAPbobsCOM;
-namespace SBOAddon1
+
+namespace SBOAddon2
 {
     public static class UIConnection
     {
