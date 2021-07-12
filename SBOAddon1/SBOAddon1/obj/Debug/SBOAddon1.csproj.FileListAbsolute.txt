@@ -1,0 +1,5 @@
+c:\users\dlepsaia\documents\visual studio 2015\Projects\SBOAddon1\SBOAddon1\bin\Debug\SBOAddon1.exe
+c:\users\dlepsaia\documents\visual studio 2015\Projects\SBOAddon1\SBOAddon1\bin\Debug\SBOAddon1.pdb
+c:\users\dlepsaia\documents\visual studio 2015\Projects\SBOAddon1\SBOAddon1\bin\Debug\SAPBusinessOneSDK.dll
+c:\users\dlepsaia\documents\visual studio 2015\Projects\SBOAddon1\SBOAddon1\obj\Debug\SBOAddon1.exe
+c:\users\dlepsaia\documents\visual studio 2015\Projects\SBOAddon1\SBOAddon1\obj\Debug\SBOAddon1.pdb
